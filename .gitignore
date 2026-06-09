@@ -1,0 +1,15 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Test Environment & Mock Clients
+/src/bin/
+/dashboard/
+
+# Development Notes (Excluded from repo)
+/zrtp ki.md
+/task.md
+/rasioFEC.md
+/contohpayload.md
+/rumus.md
