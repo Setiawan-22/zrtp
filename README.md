@@ -17,7 +17,6 @@
 ## 🎯 Use Cases
 - 🎮 **Cloud Gaming** (High framerate, zero micro-stutter)
 - 💻 **Remote Desktop** (Fluid interaction, lossless input)
-- 🚁 **Drone & Robotics FPV** (High resilience over radio/LTE)
 - 📡 **IoT Telemetry** (Rapid sensor data transmission)
 
 ## 🚀 Architecture: Dual-Protocol Engine
